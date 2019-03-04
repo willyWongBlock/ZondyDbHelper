@@ -1,0 +1,14 @@
+D:\Codes\NewCode\.Net FrameWork4.5\ZondyDbHelper\bin\Debug\ZondyDBHelper.dll.config
+D:\Codes\NewCode\.Net FrameWork4.5\ZondyDbHelper\bin\Debug\ZondyDBHelper.dll
+D:\Codes\NewCode\.Net FrameWork4.5\ZondyDbHelper\bin\Debug\ZondyDBHelper.pdb
+D:\Codes\NewCode\.Net FrameWork4.5\ZondyDbHelper\bin\Debug\Dapper.dll
+D:\Codes\NewCode\.Net FrameWork4.5\ZondyDbHelper\bin\Debug\MySql.Data.dll
+D:\Codes\NewCode\.Net FrameWork4.5\ZondyDbHelper\bin\Debug\Newtonsoft.Json.dll
+D:\Codes\NewCode\.Net FrameWork4.5\ZondyDbHelper\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Codes\NewCode\.Net FrameWork4.5\ZondyDbHelper\bin\Debug\Dapper.xml
+D:\Codes\NewCode\.Net FrameWork4.5\ZondyDbHelper\bin\Debug\Newtonsoft.Json.pdb
+D:\Codes\NewCode\.Net FrameWork4.5\ZondyDbHelper\bin\Debug\Newtonsoft.Json.xml
+D:\Codes\NewCode\.Net FrameWork4.5\ZondyDbHelper\obj\Debug\ZondyDbHelper.csproj.CoreCompileInputs.cache
+D:\Codes\NewCode\.Net FrameWork4.5\ZondyDbHelper\obj\Debug\ZondyDbHelper.csproj.CopyComplete
+D:\Codes\NewCode\.Net FrameWork4.5\ZondyDbHelper\obj\Debug\ZondyDBHelper.dll
+D:\Codes\NewCode\.Net FrameWork4.5\ZondyDbHelper\obj\Debug\ZondyDBHelper.pdb

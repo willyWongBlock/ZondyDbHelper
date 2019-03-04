@@ -1,0 +1,17 @@
+D:\Codes\NewCode\.Net FrameWork4.5\ZD_DBHelperDapper\ShuErDBHelper\obj\Debug\ShuErDBHelper.csprojAssemblyReference.cache
+D:\Codes\NewCode\.Net FrameWork4.5\ZD_DBHelperDapper\ShuErDBHelper\obj\Debug\ShuErDBHelper.csproj.CoreCompileInputs.cache
+D:\Codes\NewCode\.Net FrameWork4.5\ShuErDBHelper\obj\Debug\ShuErDBHelper.csprojAssemblyReference.cache
+D:\Codes\NewCode\.Net FrameWork4.5\ShuErDBHelper\obj\Debug\ShuErDBHelper.csproj.CoreCompileInputs.cache
+D:\Codes\NewCode\.Net FrameWork4.5\ShuErDBHelper\bin\Debug\ShuErDBHelper.dll.config
+D:\Codes\NewCode\.Net FrameWork4.5\ShuErDBHelper\bin\Debug\ShuErDBHelper.dll
+D:\Codes\NewCode\.Net FrameWork4.5\ShuErDBHelper\bin\Debug\ShuErDBHelper.pdb
+D:\Codes\NewCode\.Net FrameWork4.5\ShuErDBHelper\bin\Debug\Dapper.dll
+D:\Codes\NewCode\.Net FrameWork4.5\ShuErDBHelper\bin\Debug\MySql.Data.dll
+D:\Codes\NewCode\.Net FrameWork4.5\ShuErDBHelper\bin\Debug\Newtonsoft.Json.dll
+D:\Codes\NewCode\.Net FrameWork4.5\ShuErDBHelper\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Codes\NewCode\.Net FrameWork4.5\ShuErDBHelper\bin\Debug\Dapper.xml
+D:\Codes\NewCode\.Net FrameWork4.5\ShuErDBHelper\bin\Debug\Newtonsoft.Json.pdb
+D:\Codes\NewCode\.Net FrameWork4.5\ShuErDBHelper\bin\Debug\Newtonsoft.Json.xml
+D:\Codes\NewCode\.Net FrameWork4.5\ShuErDBHelper\obj\Debug\ShuErDBHelper.csproj.CopyComplete
+D:\Codes\NewCode\.Net FrameWork4.5\ShuErDBHelper\obj\Debug\ShuErDBHelper.dll
+D:\Codes\NewCode\.Net FrameWork4.5\ShuErDBHelper\obj\Debug\ShuErDBHelper.pdb
